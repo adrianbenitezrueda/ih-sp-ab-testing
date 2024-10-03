@@ -4,3 +4,4 @@ csv/original/df_final_experiment_clients.txt
 csv/original/df_final_web_data_pt_1.txt
 csv/original/df_final_web_data_pt_2.txt
 drafts/project_main.ipynb
+__pycache__
