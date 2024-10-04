@@ -85,7 +85,6 @@ conda create --name myenv
 
 # Activate the environment
 conda activate myenv
-
 ```
 
 4. **Install dependencies**: Run this command to install the packages from requirements.txt:
