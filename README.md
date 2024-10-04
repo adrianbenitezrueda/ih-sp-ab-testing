@@ -5,13 +5,6 @@
 
 ---
 
-## Links
-
-- [Tableau Presentation](https://public.tableau.com/views/Vanguard_Project2/Tks?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [Trello Organization](https://trello.com/invite/b/66f173ea8ce61f763b702010/ATTIf5234da7c27465111dde9d3a720f93be3D0F9A2D/second-project-vanguard-a-b-testing)
-
----
-
 ## Project Members
 
 | Name                | Background                             | Contact                                                   |
@@ -101,3 +94,10 @@ Here you can see the slides of Tableau with the project explained:
 8. Open Tableau or similar and use the new CSV files generated in (/csv/cleaned/...).
 
 9. If you prefer to use the Tableau workbook, access the Tableau Public link in this README, download the workbook, and link the generated CSV files.
+
+---
+
+## Links
+
+- [Tableau Presentation](https://public.tableau.com/views/Vanguard_Project2/Tks?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Trello Organization](https://trello.com/invite/b/66f173ea8ce61f763b702010/ATTIf5234da7c27465111dde9d3a720f93be3D0F9A2D/second-project-vanguard-a-b-testing)
