@@ -77,7 +77,7 @@ Here you can see the slides of Tableau with the project explained:
 ### Prerequisites:
 1. **Install Python**: Download and install [Python](https://www.python.org/).
 2. **Fork the repository on your machine,** and open it locally using Visual Studio Code or similar.
-3. **Create and activate a conda environment**:
+3. **Create and activate a virtual environment**:
    
 ```bash
 # Create the environment
@@ -85,6 +85,7 @@ conda create --name myenv
 
 # Activate the environment
 conda activate myenv
+
 ```
 
 4. **Install dependencies**: Run this command to install the packages from requirements.txt:
