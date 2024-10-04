@@ -5,15 +5,6 @@
 
 ---
 
-## Project Members
-
-| Name                | Background                             | Contact                                                   |
-|---------------------|----------------------------------------|-----------------------------------------------------------|
-| **Adrián Benítez**   | Graphic Design, Future Data Analyst    | [LinkedIn](https://www.linkedin.com/in/adrián-benítez-rueda-10102565/) |
-| **Saraluz Elechiguerra** | Consultant and Future Data Analyst | [LinkedIn](https://www.linkedin.com/in/saraluz-elechiguerra-7114a0320/) |
-
----
-
 ## Project Description
 
 ### Ironhack Data Analytics Bootcamp Project  
@@ -24,6 +15,15 @@ To optimize the user experience based on data and clear metrics obtained from A/
 
 ### Vision
 To become a benchmark in the use of controlled A/B testing experiments for the continuous improvement of the user experience on web platforms, driving changes based on reliable data and accurate measurements.
+
+---
+
+## Project Members
+
+| Name                | Background                             | Contact                                                   |
+|---------------------|----------------------------------------|-----------------------------------------------------------|
+| **Adrián Benítez**   | Graphic Design, Future Data Analyst    | [LinkedIn](https://www.linkedin.com/in/adrián-benítez-rueda-10102565/) |
+| **Saraluz Elechiguerra** | Consultant and Future Data Analyst | [LinkedIn](https://www.linkedin.com/in/saraluz-elechiguerra-7114a0320/) |
 
 ---
 
