@@ -57,13 +57,16 @@ Here you can see the slides of Tableau with the project explained:
     <td><img src="/slides/tableau/3.png" alt="Slide 3" width="200"/></td>
     <td><img src="/slides/tableau/4.png" alt="Slide 4" width="200"/></td>
     <td><img src="/slides/tableau/5.png" alt="Slide 5" width="200"/></td>
+    <td><img src="/slides/tableau/6.png" alt="Slide 6" width="200"/></td>    
   </tr>
   <tr>
-    <td><img src="/slides/tableau/6.png" alt="Slide 6" width="200"/></td>
     <td><img src="/slides/tableau/7.png" alt="Slide 7" width="200"/></td>
     <td><img src="/slides/tableau/8.png" alt="Slide 8" width="200"/></td>
     <td><img src="/slides/tableau/9.png" alt="Slide 9" width="200"/></td>
     <td><img src="/slides/tableau/10.png" alt="Slide 10" width="200"/></td>
+    <td><img src="/slides/tableau/11.png" alt="Slide 11" width="200"/></td>
+    <td><img src="/slides/tableau/12.png" alt="Slide 12" width="200"/></td>
+
   </tr>
 </table>
 
