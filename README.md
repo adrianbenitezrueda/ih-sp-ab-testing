@@ -53,6 +53,29 @@ Here you can see the charts generated during the project:
 
 ---
 
+## Slides
+
+Here you can see the slides of Tableau with the project explained:
+
+<table>
+  <tr>
+    <td><img src="/slides/tableau/1.png" alt="Slide 1" width="200"/></td>
+    <td><img src="/slides/tableau/2.png" alt="Slide 2" width="200"/></td>
+    <td><img src="/slides/tableau/3.png" alt="Slide 3" width="200"/></td>
+    <td><img src="/slides/tableau/4.png" alt="Slide 4" width="200"/></td>
+    <td><img src="/slides/tableau/5.png" alt="Slide 5" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="/slides/tableau/6.png" alt="Slide 6" width="200"/></td>
+    <td><img src="/slides/tableau/7.png" alt="Slide 7" width="200"/></td>
+    <td><img src="/slides/tableau/8.png" alt="Slide 8" width="200"/></td>
+    <td><img src="/slides/tableau/9.png" alt="Slide 9" width="200"/></td>
+    <td><img src="/slides/tableau/10.png" alt="Slide 10" width="200"/></td>
+  </tr>
+</table>
+
+---
+
 ## Project Execution Instructions
 
 ### Prerequisites:
